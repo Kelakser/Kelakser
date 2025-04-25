@@ -3,7 +3,7 @@
 
 
 
-<img src=https://imgur.com/rOgEUhW.png width=2000px height=200px>
+<img src=https://imgur.com/rOgEUhW.png width=500px height=10%>
 <!--
 **Kelakser/Kelakser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
