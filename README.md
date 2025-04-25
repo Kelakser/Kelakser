@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<img src=[https://i.imgur.com/3uj9teq.png](https://imgur.com/a/I1MZs1s) width=500px height=30%>
+<img src=https://imgur.com/rOgEUhW>
 <!--
 **Kelakser/Kelakser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
