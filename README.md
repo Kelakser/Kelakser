@@ -1,7 +1,9 @@
-## Hi there 👋
+## :hamster: Introducing Myself :hamster:
 
 
-<img src=https://imgur.com/rOgEUhW>
+
+
+<img src=https://imgur.com/rOgEUhW.png width=2000px height=200px>
 <!--
 **Kelakser/Kelakser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
